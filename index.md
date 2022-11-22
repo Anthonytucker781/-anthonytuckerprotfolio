@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Double Exposure Effect](http://example.com/)
-<img src="images/0cf87e37f2a4dd631d81ba62098c3466.jpg?raw=true"/>
+<img src="images/0cf87e37f2a4dd631d81ba62098c3466.jpg?raw=true"/> 
 
 ---
 

@@ -5,7 +5,7 @@
 ##Graphic Design Projects
 
 [Project 1 Ripped Text Effect](/sample_page)
-<img src="?"/>
+<img src="images/corgi-4415649_960_720?raw=true"/>
 
 ---
 [Project 2 Graffiti](/pdf/sample_presentation.pdf)

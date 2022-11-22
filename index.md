@@ -5,7 +5,7 @@
 ##Graphic Design Projects
 
 [Project 1 Ripped Text Effect](/sample_page)
-<img src="images/corgi-4415649_960_720?raw=true"/>
+<img src="images/corgi-4415649_960_720.jpg?raw=true"/>
 
 ---
 [Project 2 Graffiti](/pdf/sample_presentation.pdf)
@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Double Exposure Effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/0cf87e37f2a4dd631d81ba62098c3466.jpg?raw=true"/>
 
 ---
 

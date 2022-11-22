@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+##Graphic Design Projects
 
 [Project 1 Ripped Text Effect](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Rippedeffect.png?raw=true"/>
 
 ---
 [Project 2 Graffiti](/pdf/sample_presentation.pdf)

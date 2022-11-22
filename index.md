@@ -1,7 +1,7 @@
 ## Anthony Tucker
 
 ---
-<head> <link rel="icon" type="image/x-icon" href="favicon(1).ico/></head>
+
 ##Graphic Design Projects
 
 [Project 1 Ripped Text Effect](/sample_page)

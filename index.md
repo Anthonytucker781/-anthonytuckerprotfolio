@@ -1,19 +1,18 @@
-<head><link rel="icon" type="image/x-icon" href="favicon (1).ico"></head>
 ## Anthony Tucker
 
 ---
 
 ### Graphic Design Projects
 
-[Project 1 Ripped Text Effect](/sample_page)
+[Project 1 Ripped Text Effect]
 <img src="images/corgi-4415649_960_720.jpg?raw=true"/>
 
 ---
-[Project 2 Graffiti](/pdf/sample_presentation.pdf)
+[Project 2 Graffiti]
 <img src="images/Rippedeffect.png?raw=true"/>
 
 ---
-[Project 3 Double Exposure Effect](http://example.com/)
+[Project 3 Double Exposure Effect]
 <img src="images/0cf87e37f2a4dd631d81ba62098c3466.jpg?raw=true"/> 
 
 ---

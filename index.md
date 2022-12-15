@@ -19,19 +19,14 @@
 
 ### My Creative Projects
 
-# [Fav Celebrity](https://trinket.io/html/3d36e103f6)
----
-# [Earth and Moon](https://trinket.io/html/8d595556bb)
----
-# [Halloween Card](https://trinket.io/html/811a421992)
----
-# [Build a Robot](https://trinket.io/html/0694353959)
----
-# [Stickers!](https://trinket.io/html/30c8f993f6)
-
+-[Fav Celebrity](https://trinket.io/html/3d36e103f6)
+-[Earth and Moon](https://trinket.io/html/8d595556bb)
+-[Halloween Card](https://trinket.io/html/811a421992)
+-[Build a Robot](https://trinket.io/html/0694353959)
+-[Stickers!](https://trinket.io/html/30c8f993f6)
 ---
 ### My Midterm Project
-# [Midterm Project - E-commerce](https://tuckers-restaurant.w3spaces.com)
+-[Midterm Project - E-commerce](https://tuckers-restaurant.w3spaces.com)
 
 
 

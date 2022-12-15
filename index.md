@@ -2,7 +2,7 @@
 
 ---
 
-##Graphic Design Projects
+### Graphic Design Projects
 
 [Project 1 Ripped Text Effect](/sample_page)
 <img src="images/corgi-4415649_960_720.jpg?raw=true"/>
@@ -17,16 +17,21 @@
 
 ---
 
-### Category Name 2
+### My Creative Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Fav Celebrity](https://trinket.io/html/3d36e103f6)
+---
+[Earth and Moon](https://trinket.io/html/8d595556bb)
+---
+[Halloween Card](https://trinket.io/html/811a421992)
+---
+[Build a Robot](https://trinket.io/html/0694353959)
+---
+[Stickers!](https://trinket.io/html/30c8f993f6)
 
 ---
-
+### My Midterm Project
+-[Midterm Project - E-commerce](https://tuckers-restaurant.w3spaces.com)
 
 
 
